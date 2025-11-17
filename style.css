@@ -811,6 +811,7 @@ body {
         transition: left 0.5s ease;
         box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
         margin-top: 0;
+            padding-legt:0;
     }
 
     .nav-menu.active {
@@ -917,5 +918,6 @@ body {
         font-size: 1rem;
     }
 }
+
 
 /* media  */
